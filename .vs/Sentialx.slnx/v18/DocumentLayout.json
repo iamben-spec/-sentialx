@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Sentialx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\usermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\usermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\reportgeneratorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\reportgeneratorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\reportgeneratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\reportgeneratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\classes\\logimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\classes\\logimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\sqlquery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\sqlquery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\logimporterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\logimporterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|C:\\Users\\DELL\\source\\repos\\Sentialx\\sentialx\\forms\\logimporterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\logimporterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|C:\\Users\\DELL\\source\\repos\\Sentialx\\sentialx\\forms\\eventloggerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\eventloggerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\eventloggerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\eventloggerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\eventloggerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\eventloggerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\classes\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\classes\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\classes\\reportfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\classes\\reportfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\classes\\threatdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\classes\\threatdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\classes\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\classes\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\filtersearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\filtersearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\alertsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\alertsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\eventviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\eventviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\sentialx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\sentialx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|C:\\Users\\DELL\\source\\repos\\Sentialx\\sentialx\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F91D6-C9B4-4F5E-9F1A-4F306F353B18}|Sentialx\\Sentialx.csproj|C:\\Users\\DELL\\source\\repos\\Sentialx\\sentialx\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF4F91D6-C9B4-4F5E-9F1A-4F306F353B18}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|C:\\Users\\DELL\\source\\repos\\Sentialx\\sentialx\\forms\\reportgeneratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\reportgeneratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\im0colsr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\irnended..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\qswgczgw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|C:\\Users\\DELL\\source\\repos\\Sentialx\\sentialx\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F96E6B-77E8-260B-6D19-9F11B6577DD8}|Sentialx\\Sentialx.csproj|solutionrelative:sentialx\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dell\\source\\repos\\sentialx\\sentialx\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sentialx\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 185,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogImporterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\LogImporterForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\LogImporterForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\LogImporterForm.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\LogImporterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:46:13.999Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:40:25.705Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Alert.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\Alert.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Classes\\Alert.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\Alert.cs",
+              "RelativeToolTip": "Sentialx\\Classes\\Alert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:54:52.499Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogImporterForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\LogImporterForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\LogImporterForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\LogImporterForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\LogImporterForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:55:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventLoggerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventLoggerForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\EventLoggerForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventLoggerForm.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\EventLoggerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:54:00.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventLoggerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventLoggerForm.Designer.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\EventLoggerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventLoggerForm.Designer.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\EventLoggerForm.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T06:30:05.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventLoggerForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventLoggerForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\EventLoggerForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventLoggerForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\EventLoggerForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T06:29:35.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AlertsForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\AlertsForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\AlertsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\AlertsForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\AlertsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:59:27.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FilterSearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\FilterSearchForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\FilterSearchForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\FilterSearchForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\FilterSearchForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:59:04.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventViewerForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventViewerForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\EventViewerForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\EventViewerForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\EventViewerForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:58:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogImporter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\LogImporter.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Classes\\LogImporter.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\LogImporter.cs",
+              "RelativeToolTip": "Sentialx\\Classes\\LogImporter.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:38:34.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:49:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:48:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportGeneratorForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\ReportGeneratorForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\ReportGeneratorForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\ReportGeneratorForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\ReportGeneratorForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:31:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportGeneratorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\ReportGeneratorForm.Designer.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\ReportGeneratorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\ReportGeneratorForm.Designer.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\ReportGeneratorForm.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAcwDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:30:54.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "im0colsr..sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\im0colsr..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\im0colsr..sql",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\im0colsr..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\im0colsr..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-10T10:08:09.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "irnended..sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\irnended..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\irnended..sql",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\irnended..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\irnended..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-10T09:59:23.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "qswgczgw..sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\qswgczgw..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\qswgczgw..sql",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\qswgczgw..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\qswgczgw..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-10T09:59:10.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\UserManagementForm.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\UserManagementForm.cs",
+              "ViewState": "AgIAAIkAAAAAzBZw+c4EwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:50:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\UserManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\UserManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\UserManagementForm.Designer.cs",
+              "RelativeToolTip": "Sentialx\\Forms\\UserManagementForm.Designer.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAYwOkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:49:56.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLQuery4.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\SQLQuery4.sql",
+              "RelativeDocumentMoniker": "Sentialx\\SQLQuery4.sql",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\SQLQuery4.sql",
+              "RelativeToolTip": "Sentialx\\SQLQuery4.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-07T20:19:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "Sentialx\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\SQLQuery2.sql",
+              "RelativeToolTip": "Sentialx\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-07T20:11:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Program.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Program.cs",
+              "RelativeToolTip": "Sentialx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T20:02:08.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "Sentialx\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\SQLQuery1.sql",
+              "RelativeToolTip": "Sentialx\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-07T19:34:54.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\ReportFilter.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Classes\\ReportFilter.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\ReportFilter.cs",
+              "RelativeToolTip": "Sentialx\\Classes\\ReportFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:56:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Sentialx.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Sentialx.csproj",
+              "RelativeDocumentMoniker": "Sentialx\\Sentialx.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Sentialx.csproj",
+              "RelativeToolTip": "Sentialx\\Sentialx.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T18:56:58.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Classes\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\ReportGenerator.cs",
+              "RelativeToolTip": "Sentialx\\Classes\\ReportGenerator.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwLQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:56:34.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThreatDetector.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\ThreatDetector.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Classes\\ThreatDetector.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\ThreatDetector.cs",
+              "RelativeToolTip": "Sentialx\\Classes\\ThreatDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:55:48.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Classes\\User.cs",
+              "RelativeToolTip": "Sentialx\\Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:54:15.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:49:07.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:48:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReportGeneratorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\ReportGeneratorForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\ReportGeneratorForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\ReportGeneratorForm.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\ReportGeneratorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:30:23.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\UserManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:49:26.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Sentialx\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sentialx\\Sentialx\\Forms\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Sentialx\\Forms\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:58:46.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
