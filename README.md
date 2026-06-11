@@ -138,21 +138,6 @@ Timestamp,UserID,EventType,Description
 
 ---
 
-## 👥 Team Members
-
-| Name | Student ID | Role |
-|------|-----------|------|
-| Ammar Samy Abdelkader | 42010289 | Database & Classes |
-| Kamal Abdelgawad | 42310032 | |
-| Abdelrahman Morsy | 42020008 | |
-| Aziz Sayed | 42310533 | |
-| Abdullah Ibrahim Harb | 42010669 | |
-| Hossam Mahmoud | 42020003 | |
-
-**Supervised by:** Dr. Ahmed Seif
-
----
-
 ## 🛠️ Technologies Used
 
 - **Language:** C# (.NET Core/NET 5+)
